@@ -1,0 +1,78 @@
+
+ ____________________________________________________________________________________{[Biology]}___________________________________________________________________________________
+
+
+
+epidermis_definition_  epidermis  integumentry_system_  ; definition: The epidermis is the outer layer of the skin, it is made up of epithelial cells
+
+epidermis_parts_  epidermis  integumentry_system_  ; parts: The epidermis contains two types of pigments and proteins the keratin and the Melanin
+
+epidermis_reproduction_  epidermis  integumentry_system_  ; reproduction: The epidermis is mostly made up of dead cells which get replaced my a process called mitosis
+
+epidermis_layers_  epidermis  integumentry_system_  ; layers: The epidermis is made-up of two layers the first one is composed of dead epithelial cells
+
+dermis_definition_  dermis  integumentry_system_  ; definition: the dermis is the second layer underneath the skin
+
+dermis_tissues_  dermis  integumentry_system_  ; tissues: The dermis is made of connective tissues which provide support for the body and prevent the body from tearing apart
+
+connective_tissues_  integumentry_system_  ;  the connective tissue supports the body and prevents it from tearing apart, it also makes the skin elastic
+
+nerve_tissues_  integumantry_system_  ; Nerve tissues are tissues are tissues responciple for skin sensation
+
+subcutaneous_layer_  integumentry_system_  ; The subcutaneous layer is the third layer of the skin, it is composed of fat cells which maintain homeostasis
+
+sebaceous_gland_  integumentry_system_  ; The sebaceous gland is a gland that lubricates the skin by realizing a lubricant named sebum
+
+what_is_sebum_  sebum  ; Definition: A lubricant realized by the sebaceous gland to humidify the air
+
+what_realises_sebum_ sebum  integumentry_system_  ;  Sebum is realized by the sebaceous gland
+
+melanin  ; Melanin is a pigment found in the epidermis layer which protects internal organs from Ultraviolet rays, melanin also effects the person color
+
+keratin  ; Keratin is a protein found in the epidermis layer, it water profs organs under neath the skin
+
+chemical_reaction_  ; involve rearrangement and exchange of atoms, producing new molecules
+
+
+
+
+ ____________________________________________________________________________________{[chemistry]}___________________________________________________________________________________
+
+chemical_reaction_ defintion_of_chemical_reaction_  ;  Definition of chemical reaction: involve rearrangement and exchange of atoms, producing new molecules
+
+chemical_equation_  ;  a way to understand the chemical changes that take place between chemicals.
+
+chemical_reaction_  evidence_of_chemical_reaction_  proof_of_chemical_reaction_  ; Evidence of chemical reaction: Color change, Precipitate formation, Gas bubbles,  Large energy changes: Container becomes very
+
+hot or cold, Emission of light
+
+parts_of_chemical_reaction_  chemical_reaction_  ; Reactants Products
+
+Symbols_used_in_chemical_equations  ; 1:the arrow separates the reactants from the products 2: The plus sign = and 3: (s) after the formula -solid 4: (g) after the formula -gas 5:
+(l) after the formula -liquid
+
+Symbols_used_in_chemical_equations  ; 1: (aq) after the formula  dissolved in water  2: ↑ used after a product indicates a gas (same as (g)) 3: ↓ used after a product indicates a solid (same as (s))
+
+types_of_chemical_equations_  ;  1- word equation  2- skeletal equation   3- balanced chemical equation
+
+word_equations_  ; A method used to present a chemical reaction using words Ex: Sodium + Chlorine --> Sodium chloride
+
+skelton_equations_  ; A method used to present a chemical reaction using symbols and letters Ex: Na + Cl2 --> NaCl
+
+types_of_chemical_reactions_  ; 1: Synthesis  2: Decomposition  3: Single replacement  4: Double replacement  5: Combustion
+
+Synthesis_reaction_  types_of_chemical_reactions_   ; Syntehsis:  A type of chemical reaction in which two or more  elects combine to form one element EX: A+B→AB
+
+decomposition_reaction_  types_of_chemical_reactions_   ; decomposition: A type of chemical reaction in which one elements get braked into 2 or more different elements EX: AB→A+B
+
+single_replacement_  types_of_chemical_reactions_   ; single replacement: A type of chemical reaction in which one element replaces a similar element in a compound EX: A+BC→AC+BX
+
+double_replacement_  types_of_chemical_reactions_   ; double replacement: A type of chemical reaction in which one element replaces a similar element in a compound EX: A+BC→AC+BX
+
+combustion_reaction_  types_of_chemical_reactions_  ; Combustion reaction: is a reaction in which a substance reacts with oxygen gas, releasing energy in the form of light and heat. 
+Combustion reactions must involve oxygen as one reactant. The combustion of hydrogen gas produces water vapor EX: HC+O --> water vapor + heat
+
+
+
+
+

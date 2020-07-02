@@ -1,0 +1,30 @@
+ ############ SYNTACTICAL NOTES ##############
+1: if you don't want a taged sentence use underscores to seperate each word
+2: to tag words dont add unserscores
+3: seperate word from answers using semicolons
+4: place two spaces between the semicolons
+#############################################
+× Δ ∑ Θ
+
+v  velocity ; v=m/t
+a  acceleration  ; a=v/t
+f  force  ; f=m×a
+p  momentum  ; p=m×v
+p  momentum  ; p=m(vf-vi) or p=mvf-mvi
+pe  potential_energy  ; pe=m×g×h
+w  work  ; w=f×d
+w  work  ; w=f×d cos(Θ)
+ke  kinetic_energy_  ; ke=1/2(m×v^2)
+me  mechanical_energy_  ; ∑me=∑ke+∑pe
+t  time  ; t=(vf-vi)/a
+conservation_of_momentum_  com  ; (m.1×vi.1) + (m.2×vi.2) = (m.1×vf.1) + (m.2×vf.2)
+impulse_momentum_theorm_  imt  ; f Δ t = m ( vf - vi)
+impulse  i  ; fΔt
+time  t  ; t=d/s
+distance  d  ; s×t
+power  po  ; power = voltage x current
+weight  we  ; w = mg
+density  d  ; D = M/V
+elastic_potential_energy_  epe  ; Ee = 1⁄2 ke^2
+power  po  ; P = E/t
+f1  ; -f2

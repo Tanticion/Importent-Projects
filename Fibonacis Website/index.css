@@ -1,0 +1,29 @@
+body {
+  background-color: #3CBCC3;
+}
+
+h1 {
+  text-align: center;
+  color: #669999;
+  font-family:' Piedra';
+
+}
+p {
+  position: relative;
+  top: 50px;
+  margin-top: 50px;
+  text-align: center;
+
+}
+
+#h1-a {
+  margin-left: 5px;
+  float: left;
+}
+#h1-b {
+  position: relative;
+  top: 20px;
+  right: 5px;
+  text-align: right;
+
+}

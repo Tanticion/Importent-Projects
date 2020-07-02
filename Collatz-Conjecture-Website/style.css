@@ -1,0 +1,33 @@
+body {
+  background-color: #D48166;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Piedra" ;
+
+}
+div {
+  font-family: cursive;
+  text-align: center;
+}
+.inputed {
+  display: block;
+  background-color: #88A2DE;
+  border: solid;
+  border-color: white;
+  border-radius: 100px;
+  padding: 10px 40px;
+  font-family: cursive;
+}
+
+.button {
+  display: block;
+  
+  background-color: #88A2DE;
+  border: solid;
+  border-color: white;
+  border-radius: 100px;
+  padding: 10px 40px;
+  font-family: cursive;
+}

@@ -1,0 +1,30 @@
+body {
+  background-color: #283149;
+}
+
+.h1, h1 {
+  color: white;
+  text-shadow: 3px 0 black;
+  text-align: center;
+  font-family: fantasy;
+}
+.proj1 {
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  width: 20rem;
+  height: 25rem;
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #283149;
+}
+
+a:hover {
+  color: blue;
+}
+li {
+  padding-bottom: 6px;
+}
