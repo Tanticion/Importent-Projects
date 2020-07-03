@@ -1,4 +1,4 @@
-import glob
+import glob # used to fetch files from a directory
 import shutil
 import os
 
